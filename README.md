@@ -34,6 +34,6 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/guessthenumber.git
+    git clone https://github.com/apate476/guessthenumber.git
     ```
 2. Open the `index.html` file in your browser to play the game locally.
